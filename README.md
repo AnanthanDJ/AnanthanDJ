@@ -117,4 +117,4 @@ If you're interested in **systems programming, Linux tinkering, or experimental 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanthanDJ&layout=compact&theme=tokyonight)
 
-![snake gif](https://github.com/AnanthanDJ/AnanthanDJ/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/AnanthanDJ/AnanthanDJ/blob/output/github-contribution-grid-snake-dark.svg)
