@@ -59,40 +59,6 @@ I enjoy understanding computing systems from the ground up — operating systems
 ## Hardware
 ![ThinkPad](https://img.shields.io/badge/IBM_ThinkPad-EE2624?style=for-the-badge)
 
-# Tech Stack
-
-## Programming
-
-C • C++ • Python • Java • JavaScript
-
-## Web / Application
-
-HTML • CSS • Next.js • AngularJS
-
-## Databases
-
-MySQL • SQLite • SQL
-
-## Backend / Tools
-
-Supabase • LangChain • Git
-
-## Systems
-
-Linux • Bash • System-level tooling
-
-## Operating Systems I Use / Explore
-
-Arch Linux • Debian • Gentoo • FreeBSD
-
-## Engineering / Design
-
-FreeCAD • Engineering Drawings
-
-## Hardware
-
-IBM ThinkPad enthusiast
-
 ---
 
 # Areas I Enjoy Exploring
