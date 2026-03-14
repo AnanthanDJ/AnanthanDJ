@@ -48,12 +48,12 @@ I enjoy understanding computing systems from the ground up — operating systems
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ## Operating Systems I Use / Explore
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-000000?style=for-the-badge&logo=arch-linux&logoColor=0330a3)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpinelinux&logoColor=white)
 ![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0846e0?style=for-the-badge&logo=kalilinux&logoColor=black)
 
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-000000?style=for-the-badge&logo=freebsd&logoColor=red)
 ![OpenBSD](https://img.shields.io/badge/OpenBSD-F2CA30?style=for-the-badge&logo=openbsd&logoColor=black)
