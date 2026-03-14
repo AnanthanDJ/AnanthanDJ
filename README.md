@@ -132,6 +132,8 @@ The idea of a single developer building a complete operating system, compiler, a
 
 If you're interested in **systems programming, Linux tinkering, or experimental projects**, feel free to reach out.
 
+[![GitHub](https://img.shields.io/badge/GitHub-Secondary_Profile-181717?style=for-the-badge&logo=github)](https://github.com/oneTenCubed)
+
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnanthanDJ&show_icons=true&theme=tokyonight)
