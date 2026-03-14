@@ -132,6 +132,8 @@ The idea of a single developer building a complete operating system, compiler, a
 
 If you're interested in **systems programming, Linux tinkering, or experimental projects**, feel free to reach out.
 
+---
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnanthanDJ&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanthanDJ&layout=compact&theme=tokyonight)
