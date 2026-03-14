@@ -47,11 +47,23 @@ I enjoy understanding computing systems from the ground up — operating systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
-## Operating Systems I Use / Explore
+## Operating Systems I / Explore
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpinelinux&logoColor=white)
 ![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
+![OpenBSD](https://img.shields.io/badge/OpenBSD-F2CA30?style=for-the-badge&logo=openbsd&logoColor=black)
+![NetBSD](https://img.shields.io/badge/NetBSD-FF6600?style=for-the-badge&logo=netbsd&logoColor=white)
+
+![Haiku](https://img.shields.io/badge/Haiku-FF2D20?style=for-the-badge)
+![OpenIndiana](https://img.shields.io/badge/OpenIndiana-1F4B99?style=for-the-badge)
+![ReactOS](https://img.shields.io/badge/ReactOS-0088CC?style=for-the-badge)
+![TinyCore](https://img.shields.io/badge/TinyCore_Linux-000000?style=for-the-badge)
+![TempleOS](https://img.shields.io/badge/TempleOS-8B0000?style=for-the-badge)
 
 ## Engineering / Design
 ![FreeCAD](https://img.shields.io/badge/FreeCAD-729FCF?style=for-the-badge)
@@ -100,6 +112,13 @@ These experiences focused on **rapid prototyping, system design, and building fu
 * Deepening knowledge in **C and systems programming**
 * Exploring **operating system architecture**
 * Building experimental projects combining **systems + software + engineering**
+
+---
+
+## Inspiration
+
+One project that particularly interests me is **TempleOS**, created by **Terry A. Davis**.
+The idea of a single developer building a complete operating system, compiler, and programming environment is something I find deeply fascinating as someone interested in OS architecture.
 
 ---
 
