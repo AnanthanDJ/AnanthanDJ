@@ -70,6 +70,7 @@ I enjoy understanding computing systems from the ground up — operating systems
 
 ## Media / Creative Tools
 ![Kdenlive](https://img.shields.io/badge/Kdenlive-527EB2?style=for-the-badge&logo=kdenlive&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 
 ## Hardware
 ![ThinkPad](https://img.shields.io/badge/IBM_ThinkPad-EE2624?style=for-the-badge)
