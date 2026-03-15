@@ -68,7 +68,7 @@ I enjoy understanding computing systems from the ground up — operating systems
 ## Engineering / Design
 ![FreeCAD](https://img.shields.io/badge/FreeCAD-729FCF?style=for-the-badge)
 
-## Media / Creative Tools
+## Media Processing / Creative Tools
 ![Kdenlive](https://img.shields.io/badge/Kdenlive-527EB2?style=for-the-badge&logo=kdenlive&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 
